@@ -13,7 +13,7 @@ A production-quality, award-winning web application for managing academic record
 - **Real-time Progress**: Animated progress bars and status updates
 
 ### Backend
-- **PDF Processing**: Real PDF chunking using pdf-lib
+- **PDF Processing**: Real PDF chunking using pdf-li
 - **Blockchain Implementation**: SHA-256 hashing with linked blocks
 - **RESTful API**: Complete API for upload, records, and verification
 - **File Management**: Secure file storage and chunk management
